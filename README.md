@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Jose 👋
 
-<!--
-**jooseacostaa/jooseacostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious **Software Development student** passionate about technology, automation, and exploring how things work behind the scenes.  
+Currently diving deep into **Backend Development**, **System Administration**, and **Automation**, while enjoying learning a bit of everything on the way 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills  
+
+### 🖌️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## 💼 About Me / Sobre mí
+🎓 **Student of Multiplatform Programming** — 
+🧠 Always looking to understand not only how to code, but also how systems connect and automate together.  
+📚 I'm **self-taught** and love learning about everything new!
+
+## 🌱 Currently Learning / Actualmente Aprendiendo
+
+- Backend architecture and automation / Arquitectura backend y automatización  
+- Server management basics / Fundamentos de administración de servidores
+
+- ## 📫 How to reach me: joseacostanaranjo@hotmail.com
