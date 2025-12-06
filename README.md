@@ -25,4 +25,4 @@ Currently diving deep into **Backend Development**, **System Administration**, a
 - Backend architecture and automation / Arquitectura backend y automatización  
 - Server management basics / Fundamentos de administración de servidores
 
-- ## 📫 How to reach me: joseacostanaranjo@hotmail.com
+ ## 📫 How to reach me: joseacostanaranjo@hotmail.com
