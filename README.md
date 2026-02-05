@@ -19,6 +19,10 @@ I’m currently focused on **Backend Development**, **System Administration**, a
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 ### 🛠️ Tools & Environment
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
@@ -53,14 +57,6 @@ I enjoy working on projects where backend logic, automation, and system-level th
 * Automation scripts that save time and effort
 * Small tools that solve real-world problems
 * Projects combining backend, systems, and frontend
-
----
-
-## 📊 GitHub Stats
-
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAcostaNaranjo\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAcostaNaranjo\&layout=compact\&theme=tokyonight)
 
 ---
 
