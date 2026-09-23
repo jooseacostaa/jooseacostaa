@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="José Acosta — Software Developer" />
+<img src="./assets/heroimg.svg" width="100%" alt="José Acosta — Software Developer" />
 
 <br>
 
